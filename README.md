@@ -48,6 +48,12 @@ Don't misunderstand terms. 'CountDown Timer' is also static view.
 
 User can hold onto widget and customize it. 
 
+# Helpful Links
+
+https://developer.apple.com/documentation/widgetkit/creating-lock-screen-widgets-and-watch-complications
+https://stackoverflow.com/questions/63451273/failed-to-launch-home-screen-widget-in-ios-14-simulator
+https://stackoverflow.com/questions/62618123/ios-14-widgets-swiftui-firebase
+
 # Code
 
 ### Bundle with multiple widgets 
