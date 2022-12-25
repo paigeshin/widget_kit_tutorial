@@ -53,6 +53,7 @@ User can hold onto widget and customize it.
 https://developer.apple.com/documentation/widgetkit/creating-lock-screen-widgets-and-watch-complications
 https://stackoverflow.com/questions/63451273/failed-to-launch-home-screen-widget-in-ios-14-simulator
 https://stackoverflow.com/questions/62618123/ios-14-widgets-swiftui-firebase
+https://www.youtube.com/watch?v=3t67GWZJHSQ
 
 # Code
 
